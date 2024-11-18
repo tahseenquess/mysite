@@ -6,6 +6,10 @@
   grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));
   grid-gap: 24px;
 }
+.cards {
+  border-radius: 30px;
+  overflow: hidden;
+}
 
 .cards > ul > li {
   border: 1px solid #dadada;
