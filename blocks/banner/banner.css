@@ -1,0 +1,17 @@
+.banner-wrapper {
+  background-color: blue;
+  margin: 50px 0px !important;
+  padding: 20px !important;
+}
+
+.banner.block > div:first-child {
+  display: flex;
+  justify-content: start;
+}
+
+
+.banner.block picture {
+  display: block;
+  width: 90%;
+  margin-right: 50px;
+}
