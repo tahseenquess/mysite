@@ -1,0 +1,6 @@
+.emptybox-wrapper {
+    height: 400px;
+    width: 100%;
+    display: block;
+    background: lightgray;
+}
